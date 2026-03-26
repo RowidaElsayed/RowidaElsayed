@@ -1,7 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Rowida Elsayed, and I'm a Computer Science Engineer & Teaching Assistant at Egypt Japan University Of Science & Technology (EJUST)</p>
-###
 <div align="left">
  
   <a href="https://www.linkedin.com/in/rowida-elsayed-a59aa2235/?skipRedirect=true" target="_blank">
