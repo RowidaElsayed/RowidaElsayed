@@ -3,9 +3,13 @@
 ###
 
 <p align="left">My name is Rowida Elsayed, and I'm a Computer Science Engineer & Teaching Assistant at Egypt Japan University Of Science & Technology (EJUST)</p>
-<a href="https://www.linkedin.com/in/rowida-elsayed-a59aa2235/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 ###
+<div align="left">
+ 
+  <a href="https://www.linkedin.com/in/rowida-elsayed-a59aa2235/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h2 align="left">About me</h2>
 
